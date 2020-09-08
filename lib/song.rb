@@ -41,6 +41,6 @@ class Song
   end
   
   def.self.artists
-  @@artist
+  @@artist_count=0
 end
  
